@@ -10,6 +10,4 @@ Guide de démarrage rapide: Il fournit des instructions simples pour démarrer a
 
 Contribution et développement: Le fichier README peut inclure des informations sur la manière de contribuer au projet, de signaler des problèmes ou de proposer des améliorations.
 
-Licence: Il peut inclure des informations sur la licence du projet, décrivant comment le code peut être utilisé et distribué.
-
 Contacts: Le README peut contenir des informations sur la manière de contacter les auteurs ou les mainteneurs du projet pour obtenir de l'aide ou signaler des problèmes.
